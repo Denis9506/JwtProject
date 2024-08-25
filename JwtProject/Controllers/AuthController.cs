@@ -26,7 +26,8 @@ public class AuthController : Controller
             var user = _jwtContext.Users.Add(new User
             {
                 Nickname = request.Nickname,
-                Password = request.Password
+                Password = request.Password,
+                Role  = request.Role
             });
             await _jwtContext.SaveChangesAsync();
 

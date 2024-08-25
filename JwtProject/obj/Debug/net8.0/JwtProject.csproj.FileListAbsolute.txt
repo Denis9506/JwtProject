@@ -135,3 +135,4 @@ C:\Den\IT\ASP.NET\JwtProject\JwtProject\obj\Debug\net8.0\refint\JwtProject.dll
 C:\Den\IT\ASP.NET\JwtProject\JwtProject\obj\Debug\net8.0\JwtProject.pdb
 C:\Den\IT\ASP.NET\JwtProject\JwtProject\obj\Debug\net8.0\JwtProject.genruntimeconfig.cache
 C:\Den\IT\ASP.NET\JwtProject\JwtProject\obj\Debug\net8.0\ref\JwtProject.dll
+C:\Den\IT\ASP.NET\JwtProject\JwtProject\obj\Debug\net8.0\JwtProject.sourcelink.json

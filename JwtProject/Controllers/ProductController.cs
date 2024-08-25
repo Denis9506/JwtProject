@@ -7,7 +7,7 @@ namespace JwtProject.Controllers
 {
     [Route("api/products")]
     [ApiController]
-    [Authorize] 
+    [Authorize]
     public class ProductController : ControllerBase
     {
         private readonly JwtContext _context;
@@ -18,6 +18,7 @@ namespace JwtProject.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "admin")] 
         public async Task<ActionResult<Product>> AddProduct(Product product)
         {
             try

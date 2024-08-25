@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Den\\IT\\ASP.NET\\JwtProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|c:\\den\\it\\asp.net\\jwtproject\\jwtproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FAA482-A57A-498F-A8DE-0A35F1E36998}|JwtProject\\JwtProject.csproj|solutionrelative:jwtproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,49 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "JwtProject\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "JwtProject\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowEQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:51:16.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "JwtProject\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "JwtProject\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:50:25.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JwtContext.cs",
-              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\JwtContext.cs",
-              "RelativeDocumentMoniker": "JwtProject\\JwtContext.cs",
-              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\JwtContext.cs",
-              "RelativeToolTip": "JwtProject\\JwtContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:44:58.917Z"
             },
             {
               "$type": "Document",
@@ -78,9 +44,62 @@
               "RelativeDocumentMoniker": "JwtProject\\Program.cs",
               "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Program.cs",
               "RelativeToolTip": "JwtProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:30:57.13Z"
+              "WhenOpened": "2024-08-25T22:25:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtGenerator.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\JwtGenerator.cs",
+              "RelativeDocumentMoniker": "JwtProject\\JwtGenerator.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\JwtGenerator.cs",
+              "RelativeToolTip": "JwtProject\\JwtGenerator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:57:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JwtProject\\Models\\User.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Models\\User.cs",
+              "RelativeToolTip": "JwtProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:53:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:51:16.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "JwtProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Den\\IT\\ASP.NET\\JwtProject\\JwtProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "JwtProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:50:25.565Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -11,9 +11,10 @@ public static class JwtGenerator
     public static string GenerateJwt(User user, string token, DateTime expiryDate)
     {
         var claims = new List<Claim>
-        {
-            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-        };
+    {
+        new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+        new Claim(ClaimTypes.Role, user.Role.ToString()) 
+    };
 
         var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(token));
         var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256Signature);
@@ -26,4 +27,5 @@ public static class JwtGenerator
 
         return jwt;
     }
+
 }
